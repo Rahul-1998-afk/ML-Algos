@@ -1,2 +1,2 @@
 # Simple Linear Regression
-This repo is for all the basic ML algorithms, their applications and the application of it
+Simple Linear Regression from Scratch and using Scikit-Learn.
